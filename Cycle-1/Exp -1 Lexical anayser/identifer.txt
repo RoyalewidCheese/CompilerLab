@@ -1,0 +1,7 @@
+1	main
+2	num
+2	y
+3	num
+4	num
+5	y
+7	y
